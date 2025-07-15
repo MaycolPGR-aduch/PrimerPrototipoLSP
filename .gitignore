@@ -1,0 +1,6 @@
+venv_lsp_python310/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
